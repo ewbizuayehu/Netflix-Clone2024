@@ -1,0 +1,25 @@
+
+.lastline{
+    display: flex;
+} 
+.Footer-Wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    background-color: black;
+    color: white;
+ 
+} 
+ .First-wrapper,
+.Second-wrapper,
+.Third-Wrapper {
+flex: 1;
+}
+.First-wrapper{
+margin-left: 200px;
+
+}
+.First-wrapper ul{
+    list-style: none
+}
